@@ -99,7 +99,11 @@ plt.show()
 sns.barplot(x='gender',y='reading score',data=df)
 
 sns.boxplot(x="math score",data=df)
+
+
 ```
+
+
 # OUTPUT:
 ## Dataset
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/c600b2d5-06ba-4d5a-b6d1-d8614af3b58e)
