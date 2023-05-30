@@ -103,41 +103,57 @@ sns.boxplot(x="math score",data=df)
 
 ```
 
-
 # OUTPUT:
+
 ## Dataset
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/c600b2d5-06ba-4d5a-b6d1-d8614af3b58e)
+
 ## data.info()
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/0bb8c631-cb0b-41d3-b2ee-8ccd6a9ea3cf)
+
 ## data.isnull().sum()
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/f1dbac0d-b825-4bb6-80ca-759e7f872bd5)
+
 ## After removing null values
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/3ae0123d-b293-4e7a-9df5-5fc29d935b6a)
+
 ## data.describe()
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/7ce49354-dce5-494e-955f-7c6229fe9db8)
+
 ## data.head()
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/84c51aa2-bf96-4824-b7f6-0630a21ac1ba)
+
 ## New data after removing outliers
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/73995a11-09dc-4f4e-b0cf-760d5dd4db6e)
 
+
 ## Outliers
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/508f49a9-ea3a-4c8f-88d1-af852bf2c664)
+
 ## df.shape()
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/9376f475-1a0e-4f01-8aa0-97d6e23c1f69)
+
 ## Ordinal Encoding
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/dd6e35a2-fe49-4431-b422-acb95cef21ba)
+
 ## Label Encoding
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/57f5dc14-38a1-4b90-ac22-e9bbe56318c3)
+
 ## OneHot Encoding
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/edb0bfc1-25b7-44aa-8675-529f8468da1b)
+
 ## Binary Encoding
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/29dcae8b-bbf2-4b04-9505-2a604a2c6a36)
+
 ## Heatmap
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/1a60c0a0-d334-48f8-8e00-03ee2a9971f5)
+
 ## Scatterplot
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/e61dde68-6a99-405e-b9df-81d946b1b14f)
+
 ## Barplot
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/423a4445-74c7-4806-9144-c18d0d00af7c)
+
 ## Boxplot
 ![image](https://github.com/SASIDEVIvenaram/Ex-10-Data-Science-Process-on-Complex-Dataset-Assignment/assets/118707332/0c7a26a0-5899-4187-83a8-0d588f757321)
 
